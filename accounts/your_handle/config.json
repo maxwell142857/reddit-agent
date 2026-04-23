@@ -1,0 +1,9 @@
+{
+  "username": "your_reddit_username",
+  "chrome_port": 9222,
+  "daily_limits": {
+    "warmup": 8,
+    "promote": 0
+  },
+  "daily_likes": 10
+}

@@ -1,0 +1,22 @@
+.env
+chrome-profiles/
+
+# Real account data — keep only the template
+accounts/*/
+!accounts/your_handle/
+accounts/your_handle/logs/
+accounts/*/blocked_subs.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/

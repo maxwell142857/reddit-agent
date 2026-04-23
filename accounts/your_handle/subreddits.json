@@ -1,0 +1,5 @@
+[
+  { "name": "your_target_subreddit", "intent": "promote", "notes": "Core promote target — describe why" },
+  { "name": "your_niche_subreddit", "intent": "both", "notes": "Related community" },
+  { "name": "a_hobby_subreddit", "intent": "warmup", "notes": "Hobby — builds persona authenticity" }
+]
